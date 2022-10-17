@@ -13,8 +13,3 @@ def isLeapYear(year: int):
         return False
 
 isLeapYear(2022)
-{
-    "github-actions.workflows.pinned.workflows": [".github/workflows/build.yml", ".github/workflows/create.yml"],
-    "github-actions.workflows.pinned.refresh.enabled": true,
-    "github-actions.workflows.pinned.refresh.interval": 65,
-}
