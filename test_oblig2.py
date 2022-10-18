@@ -14,4 +14,4 @@ def test_isLeapYearNotDivOnly4():
 
 #dividable with 100 but not 400
 def test_isLeapYearDiv100Not400():
-    assert not isLeapYear(1700)
+    assert not isLeapYear(1500)
